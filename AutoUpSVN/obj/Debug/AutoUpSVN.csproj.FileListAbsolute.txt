@@ -1,0 +1,16 @@
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\AutoUpSVN.exe.config
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\AutoUpSVN.exe
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\AutoUpSVN.pdb
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\NPOI.dll
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\NPOI.OOXML.dll
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\NPOI.OpenXml4Net.dll
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\SharpSvn.dll
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\SharpSvn.UI.dll
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\NPOI.xml
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\SharpSvn.xml
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\SharpSvn.UI.xml
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\bin\Debug\SharpPlink-Win32.svnExe
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\obj\Debug\AutoUpSVN.exe
+G:\2018\testCode\AutoUpSVN\AutoUpSVN\obj\Debug\AutoUpSVN.pdb
